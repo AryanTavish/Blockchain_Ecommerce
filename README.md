@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Run Locally
 
 Clone the project
@@ -35,5 +35,3 @@ The server should now be running. You can access the application by opening a we
   http://localhost:3000
 ```
 =======
-# Blockchain_Ecommerce
->>>>>>> 817cb5b981fc9d99663fb04fa32013d68d72f4f3
